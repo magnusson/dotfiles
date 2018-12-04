@@ -1,0 +1,26 @@
+{
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "workbench.iconTheme": "vscode-icons",
+  "window.zoomLevel": -1,
+  "vsicons.projectDetection.disableDetect": true,
+  "editor.renderWhitespace": "all",
+  "workbench.startupEditor": "newUntitledFile",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/node_modules": true
+  },
+  "explorer.confirmDragAndDrop": false,
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": true,
+  "files.eol": "\n",
+  "emmet.triggerExpansionOnTab": true,
+  "editor.formatOnSave": true,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "files.insertFinalNewline": true
+}
